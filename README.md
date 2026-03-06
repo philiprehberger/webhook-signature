@@ -144,3 +144,4 @@ vendor/bin/phpunit
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
