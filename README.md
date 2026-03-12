@@ -1,4 +1,4 @@
-# philiprehberger/webhook-signature
+# philiprehberger/php-webhook-signature
 
 Minimal, framework-agnostic HMAC-SHA256 webhook signature generation and verification with replay attack prevention.
 
@@ -7,7 +7,7 @@ Works with Laravel, Symfony, plain PHP — any environment running PHP 8.2+.
 ## Installation
 
 ```bash
-composer require philiprehberger/webhook-signature
+composer require philiprehberger/php-webhook-signature
 ```
 
 ## Signature Format
